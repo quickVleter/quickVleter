@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### Designer + Developer, UI/UX guy.
+
+
+<img src="https://camo.githubusercontent.com/df24b5589792202acf5a53a947b2793256c0d8c5009ab589e790a526a0a64119/68747470733a2f2f72656e6465722e676974616e696d616c732e6f72672f6661726d732f4b79656f6e674a6f6f6e69" /> 
 <!--
 **quickVleter/quickVleter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
